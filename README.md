@@ -1,3 +1,3 @@
 # raytracer
 ++ hw 5 raytracer
-trace.png
+![alt text](https://github.com/M-Blomqvist/raytracer/blob/master/trace.png?raw=true)
